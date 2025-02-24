@@ -30,6 +30,8 @@ Job Listing APIs (for real-time job trends)
 
 
 **Installation:**
+**Clone the repository:**
+git clone
 
 
 
