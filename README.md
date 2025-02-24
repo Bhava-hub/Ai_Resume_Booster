@@ -1,0 +1,2 @@
+# BlackOps_AI_Powered_Career_Booster
+ The AI-Powered Career Booster helps job seekers by extracting skills from resumes, recommending relevant job roles, and generating tailored interview questions. It leverages AI to analyze resumes, match users with suitable job opportunities, and provide personalized interview preparation. The platform ensures a seamless job search experience with AI-driven insights. Built with Streamlit, it integrates NLP models and job listing APIs for real-time career guidance.
