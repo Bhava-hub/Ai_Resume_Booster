@@ -30,11 +30,10 @@ Job Listing APIs (for real-time job trends)
 
 
 **Installation:**
+
+
 **Clone the repository:**
-git clone
-
-
-
+git clone https://github.com/bugbusters-scrap/BlackOps_AI_Powered_Career_Booster.git
 
 **Install dependencies:**
 pip install -r requirements.txt
