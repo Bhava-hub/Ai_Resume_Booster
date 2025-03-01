@@ -25,7 +25,7 @@ NLP for resume parsing, skill extraction, and job role matching
 
 **APIs & Tools:**
 Hugging Face NER models (for entity recognition in resumes)
-Google Cloud Speech-to-Text API (for mock interview feedback)
+Gemini API (for mock interview feedback)
 Job Listing APIs (for real-time job trends)
 
 
